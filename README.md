@@ -11,3 +11,5 @@
 - pick your dob and display user is how many days, months and years is old as per today.
 ### Payment page
 - payment page with different type of input and its usage
+### Voting
+- Vote for Rust or Go and see the result live in a bar chart
